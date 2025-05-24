@@ -29,7 +29,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itschathura/itschathura/output/pacman-contribution-graph.svg">
 </picture>
 
-<<<<<<< HEAD
 <h2 align="center">Artworks✒️</h2>
 <table>
   <tr>
@@ -47,7 +46,6 @@
     </td>
   </tr>
 
-=======
->>>>>>> 3d194b899a7fc1e3f89416a376dfca567eb727d0
+
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
