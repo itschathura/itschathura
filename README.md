@@ -17,4 +17,11 @@
 ###
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lbr2qag4mqz5bclzibu453rt4y&width=1000)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itschathura/itschathura/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itschathura/itschathura/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itschathura/itschathura/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
