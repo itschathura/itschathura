@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently studying<br>👨‍💻 All of my projects are available at https://ph3onix17.github.io/itschathura/<br>📫 How to reach me by mail chathuramaheshdharmasiride@gmail.com<br>⚡ Fun fact A day on Venus is longer than a year on Venus.<br><br>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RUc5wvHq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dharmasiri1717) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ph3on1x17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmasiri17) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mrbola17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dharmasiri1717) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chathuramaheshdharmasiride@gmail.com) 
 
@@ -14,5 +13,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+###
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lbr2qag4mqz5bclzibu453rt4y&width=1000)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
