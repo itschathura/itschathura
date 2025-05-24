@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/github-header-image.png" alt="GitHub Header Image">
+  
+  
+</p>
+
 # 💫 About Me:
 🌱 I’m currently studying<br>👨‍💻 All of my projects are available at https://ph3onix17.github.io/itschathura/<br>📫 How to reach me by mail chathuramaheshdharmasiride@gmail.com<br>⚡ Fun fact A day on Venus is longer than a year on Venus.<br><br>
 
