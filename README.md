@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🌱 I’m currently studying<br>👨‍💻 All of my projects are available at https://itschathura.github.io/itschathura.me<br>📫 How to reach me by mail itsmechathura@outlook.com<br>⚡ Fun fact A day on Venus is longer than a year on Venus.<br><br>
+🌱 I’m currently studying<br>👨‍💻 All of my projects are available at https://itsmechathura.netlify.app/<br>📫 How to reach me by mail itsmechathura@outlook.com<br>⚡ Fun fact A day on Venus is longer than a year on Venus.<br><br>
 
 <div align="center">
     <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF"><br><br>
