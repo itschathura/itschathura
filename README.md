@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/itschathura">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+reliable+AI+products+%F0%9F%A4%96;RAG+%C2%B7+LLM+Guardrails+%C2%B7+Evaluation+%F0%9F%9B%A1%EF%B8%8F;F1+Telemetry+%2B+Analysis+%F0%9F%8F%8E%EF%B8%8F;Final-year+CS+Undergraduate+%40+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+reliable+AI+products;RAG+%C2%B7+LLM+Guardrails+%C2%B7+Evaluation;F1+Telemetry+%2B+Analysis;Final-year+CS+Undergraduate" alt="Typing SVG" />
   </a>
 </p>
 
